@@ -219,3 +219,14 @@ p {
         display: none;
     }
 }
+@media screen and (min-width:700px)and (max-width: 800px) {
+    .logo h1{
+        display: none;
+    }
+    .home-pic {
+        height: 65vh;
+        top: 17vh;
+        background-image: url("pmmobilemob1601608862.png");
+        z-index: -1 ;
+    }
+}

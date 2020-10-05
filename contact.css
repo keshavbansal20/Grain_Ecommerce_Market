@@ -4,3 +4,12 @@
 body{
     background-color:  rgb(23, 23, 36);
 }
+.container{
+    /* max-width: 100px; */
+    width: 70vw;
+    margin: 10px auto;
+    margin-left: 15%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}

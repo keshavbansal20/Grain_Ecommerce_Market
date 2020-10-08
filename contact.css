@@ -25,3 +25,8 @@ body{
     box-shadow: inset 300px 0 50px rgba(255, 71, 4, 0.753);
     /* box-shadow: 5px 0 20px red; */
 }
+.card:hover{
+    z-index: 1000;
+    transform: perspective(2000px) rotate(-10deg);
+    box-shadow: inset 300px 0 50px rgba(0,0,0,.5);
+}

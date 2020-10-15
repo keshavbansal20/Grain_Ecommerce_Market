@@ -30,3 +30,6 @@ body{
     transform: perspective(2000px) rotate(-10deg);
     box-shadow: inset 300px 0 50px rgba(0,0,0,.5);
 }
+img{
+    
+}

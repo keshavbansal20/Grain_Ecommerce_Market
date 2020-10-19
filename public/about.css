@@ -19,3 +19,22 @@
     top: -10px;
     width: 100%;
 }
+.container section .abt-img{
+    width: 50%;
+    height: 50vh;
+    margin: auto;
+    position: absolute;
+    top: 8vh;
+    left: 25%;
+}
+ .abt{
+    position: absolute;
+    top: 60vh;
+    right: 10px;
+    color: white;
+    /* width: 45%; */
+    font-size: 24px;
+    /* overflow: auto; */
+    box-sizing: border-box;
+    /* height: 50vh; */
+}

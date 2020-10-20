@@ -48,3 +48,6 @@ img{
     z-index: 1;
     transition: 1s;
 }
+.card:hover .imgbox{
+    transform: rotateY(-135deg);
+}

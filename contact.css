@@ -51,3 +51,6 @@ img{
 .card:hover .imgbox{
     transform: rotateY(-135deg);
 }
+h1{
+    text-align: center;
+}

@@ -55,5 +55,9 @@ h1{
     text-align: center;
 }
 .card .details{
-    
+    position: absolute;
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 20px;
 }
